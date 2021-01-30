@@ -1,0 +1,30 @@
+h1 {
+    font-family:Helvetica;
+}
+.bark {
+    font-family:Cursive;
+}
+.seatgeek {
+    font-family:Caveat;
+}
+.etsy {
+    font-family:Itim;
+}
+.amex {
+    font-family:Modak;
+}
+.google {
+    font-family:Roboto;
+}
+.royal {
+    color:#0080ff;
+}
+.coral {
+    color:#ffaa7b;
+}
+img {
+  border: 5px solid #555;
+}
+h2:hover {
+     color:yellow;
+}
